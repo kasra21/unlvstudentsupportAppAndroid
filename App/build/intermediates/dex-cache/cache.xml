@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/kasra/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/kasra/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-a7335cd4a807f976018004c228d7d1568123622e.jar" />
+    </item>
+    <item
+        jar="/home/kasra/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/kasra/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/classes-0e830154c63a37eb3dc71c9169f363f594cf55fb.jar" />
+    </item>
+    <item
+        jar="/home/kasra/AndroidStudioProjects/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/kasra/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-eec97bbd27144b4bfa6e715d86726b5c0c7d60a1.jar" />
+    </item>
+    <item
+        jar="/home/kasra/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/kasra/AndroidStudioProjects/MyApplication/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-79a71998687e59ff174a4b9414803ea77da45a83.jar" />
+    </item>
+
+</items>
